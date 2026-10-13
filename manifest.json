@@ -1,0 +1,14 @@
+{
+  "product": "RestoFlow",
+  "version": "6.2.2",
+  "schema_version": 1,
+  "minimum_version": "6.1.0",
+  "package_url": "https://github.com/dev-1773/restoflow-updates/releases/download/v6.2.2/restoflow-update-v6.2.2.tar.gz",
+  "sha256": "d8a244b74b2f38965b106b45766cdae0e11a318ebf422b7ff8585da75d76b15a",
+  "published_at": "2026-10-12T12:24:33.383704+00:00",
+  "notes": [
+    "Web erişim izinleri kalıcı olarak düzeltildi",
+    "API ve web sağlık kontrolü güçlendirildi",
+    "Başarısız güncellemede otomatik geri dönüş iyileştirildi"
+  ]
+}
