@@ -1,14 +1,12 @@
 {
   "product": "RestoFlow",
-  "version": "6.2.3",
+  "version": "6.2.4",
   "schema_version": 1,
   "minimum_version": "6.1.0",
-  "package_url": "https://github.com/dev-1773/restoflow-updates/releases/download/v6.2.3/restoflow-update-v6.2.3.tar.gz",
-  "sha256": "e2465dc3df56c4d1673bae271a1ba3db02fa216d0df7d5b634492d9f51b4c7f9",
-  "published_at": "2026-10-13T08:14:01.088295+00:00",
+  "package_url": "https://github.com/dev-1773/restoflow-updates/releases/download/v6.2.4/restoflow-update-v6.2.4.tar.gz",
+  "sha256": "5b619c7cea2f8b7b9267bcca00794a1b02b17ca81788aa637e898da17125bd4b",
+  "published_at": "2026-10-13T10:38:23.402698+00:00",
   "notes": [
-    "NoNewPrivileges uyumlu güvenli güncelleme köprüsü eklendi",
-    "GitHub güncelleme ve rollback işlemleri root dispatcher üzerinden çalışır",
-    "Yerel cihaz adı değişikliği güvenli köprüye taşındı"
+    "RestoFlow V6.2.4 güncellemesi"
   ]
 }
