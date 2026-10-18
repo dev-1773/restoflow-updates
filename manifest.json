@@ -1,12 +1,12 @@
 {
   "product": "RestoFlow",
-  "version": "6.2.6",
+  "version": "6.2.7",
   "schema_version": 1,
   "minimum_version": "6.1.0",
-  "package_url": "https://github.com/dev-1773/restoflow-updates/releases/download/v6.2.6/restoflow-update-v6.2.6.tar.gz",
-  "sha256": "619adb8684d9ac55571e7701324949ed2ff3e85c1bec206dab73ad80eb806b43",
-  "published_at": "2026-10-18T12:36:00.362085+00:00",
+  "package_url": "https://github.com/dev-1773/restoflow-updates/releases/download/v6.2.7/restoflow-update-v6.2.7.tar.gz",
+  "sha256": "c53f51dee393e88c2f1ea7d603b6b4b6b62adcb09eec714b4e88b7beff9135e1",
+  "published_at": "2026-10-18T12:44:10.153810+00:00",
   "notes": [
-    "lisans page"
+    "fix(update): sync nginx config and add lisans health checks in updater"
   ]
 }
