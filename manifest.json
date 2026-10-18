@@ -1,12 +1,12 @@
 {
   "product": "RestoFlow",
-  "version": "6.2.8",
+  "version": "6.2.9",
   "schema_version": 1,
   "minimum_version": "6.1.0",
-  "package_url": "https://github.com/dev-1773/restoflow-updates/releases/download/v6.2.8/restoflow-update-v6.2.8.tar.gz",
-  "sha256": "a42074b4b9b6eaa52a2d894c4ef027995715d1fb26072cd8a7a3917bdd089d85",
-  "published_at": "2026-10-18T12:51:37.566740+00:00",
+  "package_url": "https://github.com/dev-1773/restoflow-updates/releases/download/v6.2.9/restoflow-update-v6.2.9.tar.gz",
+  "sha256": "2d8706f7bac38f9e2f424c8d9dd5836e72849776d5cd2340e723342ae54b5afc",
+  "published_at": "2026-10-18T13:27:06.267190+00:00",
   "notes": [
-    "tools: add pi_guncelle.bat helper"
+    "Merge branch 'main' of https://github.com/dev-1773/restoflowIoT"
   ]
 }
