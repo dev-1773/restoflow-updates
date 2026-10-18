@@ -1,12 +1,12 @@
 {
   "product": "RestoFlow",
-  "version": "6.2.5",
+  "version": "6.2.6",
   "schema_version": 1,
   "minimum_version": "6.1.0",
-  "package_url": "https://github.com/dev-1773/restoflow-updates/releases/download/v6.2.5/restoflow-update-v6.2.5.tar.gz",
-  "sha256": "2ff69fc35fc6f84fa776807eda32b853bca3e0b1dafaeb15c407c68e53bbf487",
-  "published_at": "2026-10-13T11:59:17.715597+00:00",
+  "package_url": "https://github.com/dev-1773/restoflow-updates/releases/download/v6.2.6/restoflow-update-v6.2.6.tar.gz",
+  "sha256": "619adb8684d9ac55571e7701324949ed2ff3e85c1bec206dab73ad80eb806b43",
+  "published_at": "2026-10-18T12:36:00.362085+00:00",
   "notes": [
-    "RestoFlow V6.2.5 güncellemesi"
+    "lisans page"
   ]
 }
