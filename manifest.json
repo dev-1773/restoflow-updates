@@ -1,11 +1,11 @@
 {
   "product": "RestoFlow",
-  "version": "6.2.11",
+  "version": "6.2.12",
   "schema_version": 1,
   "minimum_version": "6.1.0",
-  "package_url": "https://github.com/dev-1773/restoflow-updates/releases/download/v6.2.11/restoflow-update-v6.2.11.tar.gz",
-  "sha256": "c43b5522965b13575adfb3897c460faa86a63adb19ed0efee563221358d9cbc1",
-  "published_at": "2026-10-18T15:03:44.585105+00:00",
+  "package_url": "https://github.com/dev-1773/restoflow-updates/releases/download/v6.2.12/restoflow-update-v6.2.12.tar.gz",
+  "sha256": "eac81671c34fe0ddfed8cd1e37ab908a62f13f7b9981bbd7a3573758b4c454fd",
+  "published_at": "2026-10-24T12:04:23.449786+00:00",
   "notes": [
     "Merge branch 'main' of https://github.com/dev-1773/restoflowIoT"
   ]
